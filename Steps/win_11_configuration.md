@@ -7,7 +7,10 @@ This is my win 11 file configuration, in below I'll detail the configs that I ma
 
 This are APPS that I use in My Laptop, I'll not show the instalation or configuration that is not necessary.
 
-***Chrome***
-***Office Home and Student 2019***
-***Kaspersky***
-***7-ZIP***
+***Chrome:***
+
+***Office Home and Student 2019:***
+
+***Kaspersky:*** To Windows system I recommend that you use antivirus software, to protect your data set up, choise the software that you like.
+
+***7-ZIP:*** To uncompress files with extensions **.rar**, **.tar**, **.zip** and etc...
