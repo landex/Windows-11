@@ -50,7 +50,9 @@ To development for me the best text editor to this, is **VSCode**, to install us
 
 :desktop_computer:
 
-Not is equals ***bash*** or ***zsh*** of Linux/Unix systems, but to windows is the best choice, so install by **Windows Store** too. Depois de instalado você pode editar algums configurações de profile, editando o arquivo *C:\Users\***your_user_name***\Documents\PowerShell\Microsoft.PowerShell_profile.ps1*
+Not is equals ***bash*** or ***zsh*** of Linux/Unix systems, but to windows is the best choice, so install by **Windows Store** too. Depois de instalado você pode editar algums configurações de profile, editando o arquivo abaixo.
+
+```PowerShell *C:\Users\***your_user_name***\Documents\PowerShell\Microsoft.PowerShell_profile.ps1* ```
 
 ### Windows Terminal
 
