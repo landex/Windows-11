@@ -7,9 +7,9 @@ This is my win 11 file configuration, in below I'll detail the configs that I ma
 
 This are APPS that I use in My Laptop, I'll not show the instalation or configuration that is not necessary.
 
-***Chrome:***
+***Brave:*** The browser focuset in privacy. 
 
-***Office Home and Student 2019:***
+***Office Home and Student 2019:*** For me is the best office suite avaiable in market.
 
 ***Kaspersky:*** To Windows system I recommend that you use antivirus software, to protect your data set up, choise the software that you like.
 
