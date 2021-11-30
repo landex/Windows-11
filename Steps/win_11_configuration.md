@@ -25,6 +25,9 @@ The installation is the very easy, first uncompress the zipped folder downloaded
 
 
 
+<img align="center" src="https://github.com/landex/Windows-11/blob/main/win_11_images/Screenshot_20211130_115628.png" alt="drawing" width="200"/>
+
+
 
 ## References
 [Fira Code Font](https://github.com/tonsky/FiraCode)
