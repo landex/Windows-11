@@ -19,4 +19,5 @@ This are APPS that I use in My Laptop, I'll not show the instalation or configur
 
 ### Fonts
 
-I like the **Fira Code** font, so in this case if you can use too, make download . 
+I like the **Fira Code** font, so in this case if you can use too, make download in this link [Fira (Code]https://github.com/tonsky/FiraCode/releases/download/6/Fira_Code_v6.zip)
+
