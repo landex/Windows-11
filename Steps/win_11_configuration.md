@@ -60,6 +60,65 @@ Not is equals ***bash*** or ***zsh*** of Linux/Unix systems, but to windows is t
 
 The great idea of Microsoft, is this terminal. I use the PowerShell 7 with the first choice.
 
+### Java :coffee: :coffee: :coffee:
+
+Java is the most used programming language, and used to access some things. So we need install and configure **Java** I prefer use version of LTS of **Java**. Make download of java in this link [Java 11 LTS](https://www.oracle.com/br/java/technologies/javase-jdk11-downloads.html).
+
+To configure you need open command line of windows with ***Adminstrator Level***, so to open type Press ***WIN*** button and ***Q*** in search box type ***CMD***, click with right mouse button and select ***Run as Administrator***.
+
+
+<img align="center" src="https://github.com/landex/Windows-10/blob/main/Images/win_and_choco/search_20210310_185900.png" alt="drawing" width="400"/>
+
+
+<img align="center" src="https://github.com/landex/Windows-10/blob/main/Images/win_and_choco/Screenshot_20210310_192138.png" alt="drawing" width="400"/>
+
+
+Run commands below to insert **JAVA** configuration in environment variables. By default if you not changed during installation, the **JAVA** will be installed in this path ***C:\Program Files\Java\jdk-11.0.10*** regarding that we talked about **JAVA 11**.
+
+With this information run commands:
+
+* **JAVA_HOME**
+
+```bat
+C:\Windows\system32>setx JAVA_HOME "C:\Program Files\Java\jdk-11.0.10"
+
+SUCCESS: Specified value was saved.
+
+C:\Windows\system32>
+```
+
+* **JAVA IN PATH**
+
+```bat
+
+C:\Windows\system32>setx PATH "%PATH%;%JAVA_HOME%\bin";
+
+SUCCESS: Specified value was saved.
+
+C:\Windows\system32>
+```
+Now open the ***CMD*** and test if Java was configred with success.
+
+Verify the **Java Version** running command below.
+
+```batch
+C:\Users\yourusername>java -version
+java version "11.0.10" 2021-01-19 LTS
+Java(TM) SE Runtime Environment 18.9 (build 11.0.10+8-LTS-162)
+Java HotSpot(TM) 64-Bit Server VM 18.9 (build 11.0.10+8-LTS-162, mixed mode)
+C:\Users\yourusername>
+```
+
+Verify the **Javac Version** Java is the version of Java compiler.
+
+```batch
+C:\Users\yourusername>javac -version
+javac 11.0.10
+C:\Users\yourusername>
+```
+
+Well done, the Java configuration is ok, if the your results are equals that the displayed above.
+
 ## References
 
 [Fira Code Font](https://github.com/tonsky/FiraCode)
