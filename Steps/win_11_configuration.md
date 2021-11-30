@@ -16,3 +16,7 @@ This are APPS that I use in My Laptop, I'll not show the instalation or configur
 ***Kaspersky:*** To Windows system I recommend that you use antivirus software, to protect your data set up, choise the software that you like.
 
 ***7-ZIP:*** To uncompress files with extensions **.rar**, **.tar**, **.zip** and etc...
+
+### Fonts
+
+I like the **Fira Code** font, so in this case if you can use too, make download . 
