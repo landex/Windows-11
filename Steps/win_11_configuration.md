@@ -13,11 +13,13 @@ This are APPS that I use in My Laptop, I'll not show the instalation or configur
 
 * ***Office Home and Student 2019:*** For me is the best office suite avaiable in market.
 
+* ***Foxit PDF Reader:*** For me the best PDF Reader. 
+
 * ***Kaspersky:*** To Windows system I recommend that you use antivirus software, to protect your data set up, choise the software that you like.
 
 * ***7-ZIP:*** To uncompress files with extensions **.rar**, **.tar**, **.zip** and etc...
 
-### Fonts
+### Fonts Fira Code
 
 I like the **Fira Code** font, so in this case if you can use too, make download in this link [Fira Code](https://github.com/tonsky/FiraCode/releases/download/6/Fira_Code_v6.zip)
 
@@ -28,6 +30,8 @@ The installation is the very easy, first uncompress the zipped folder downloaded
 <img align="center" src="https://github.com/landex/Windows-11/blob/main/win_11_images/Screenshot_20211130_115628.png" alt="drawing" width="200"/>
 
 
+
+Ok, after installation of Fira Code we can use in our prefered apps.
 
 ## References
 [Fira Code Font](https://github.com/tonsky/FiraCode)
