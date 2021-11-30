@@ -36,7 +36,18 @@ Ok, after installation of Fira Code we can use in your preferred apps.
 ### VIM
 
 One of the best text editor of world, to edit simple files, when you is using the PowerShell is better have ***vim*** installed in your computer.
+You can make download from this link [vim](https://ftp.nluug.nl/pub/vim/pc/gvim82.exe), and follow the classic installation... next...next... finish!
+
+### VSCode
+
+To development for me the best text editor to this, is **VSCode**, to install use the **Windows Store**, not have secret. Using the **Windows Store** the updates comming automatic.
+
+### PowerShell 7
+
+Not is equals ***bash*** or ***zsh*** of Linux/Unix systems, but to windows is the best choice, so install by **Windows Store** too.
 
 ## References
 
 [Fira Code Font](https://github.com/tonsky/FiraCode)
+
+[Vim](https://www.vim.org/)
