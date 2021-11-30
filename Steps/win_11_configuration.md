@@ -31,7 +31,12 @@ The installation is the very easy, first uncompress the zipped folder downloaded
 
 
 
-Ok, after installation of Fira Code we can use in our prefered apps.
+Ok, after installation of Fira Code we can use in your preferred apps.
+
+### VIM
+
+One of the best text editor of world, to edit simple files, when you is using the PowerShell is better have ***vim*** installed in your computer.
 
 ## References
+
 [Fira Code Font](https://github.com/tonsky/FiraCode)
