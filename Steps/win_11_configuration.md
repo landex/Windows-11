@@ -48,13 +48,13 @@ To development for me the best text editor to this, is **VSCode**, to install us
 
 ### PowerShell 7
 
-:terminal:
+:desktop_computer:
 
 Not is equals ***bash*** or ***zsh*** of Linux/Unix systems, but to windows is the best choice, so install by **Windows Store** too.
 
 ### Windows Terminal
 
-:terminal:
+:desktop_computer:
 
 The great idea of Microsoft, is this terminal.
 
