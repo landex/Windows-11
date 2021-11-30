@@ -21,3 +21,10 @@ This are APPS that I use in My Laptop, I'll not show the instalation or configur
 
 I like the **Fira Code** font, so in this case if you can use too, make download in this link [Fira Code](https://github.com/tonsky/FiraCode/releases/download/6/Fira_Code_v6.zip)
 
+The installation is the very easy, first uncompress the zipped folder downloaded, and in sub folder **ttf** select all files and click with right button and select the option ***install for all users***.
+
+
+
+
+## References
+[Fira Code Font](https://github.com/tonsky/FiraCode)
