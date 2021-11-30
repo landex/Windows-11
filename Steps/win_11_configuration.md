@@ -9,6 +9,8 @@ This are APPS that I use in My Laptop, I'll not show the instalation or configur
 
 ***Brave:*** The browser focuset in privacy. 
 
+***Mail:*** The e-mail client that comming with Windows, for me is enought to usage.
+
 ***Office Home and Student 2019:*** For me is the best office suite avaiable in market.
 
 ***Kaspersky:*** To Windows system I recommend that you use antivirus software, to protect your data set up, choise the software that you like.
