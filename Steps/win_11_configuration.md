@@ -111,12 +111,100 @@ C:\Users\yourusername>
 
 Well done, the Java configuration is ok, if the your results are equals that the displayed above.
 
+# WSL 2
+
+The WSL 2 allow us to run an Linux distribution in Windows, to enable follo the stpes below.
+
+## The WSL 2
+
+Now we will start the WSL 2 configuration in Windows 10. To create a great dev and automation testing environment for us. If you want know more about WSL 2 click read the offical documentation in Microsoft Site in this [link](https://docs.microsoft.com/en-us/windows/wsl/about)
+
+The first thing to start is open the **PowerShell** with adminstrator level.
+
+
+<img align="center" src="https://github.com/landex/Windows-10/blob/main/Procedure/Windows10andWSL/Images/wt_adm_level_20210420_094201.png" alt="drawing" width="400"/>
+
+
+:warning: :warning: Now Attention in commands below ok!? :warning: :warning:
+
+After openning the **wt** (***wt is Windows Terminal***) the default shell before any configuration, is the **PowerShell**.
+
+Run command to enable **Windows Subsystem for Linux** run the command below:
+
+```batch
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+```
+
+Example of command running below.
+
+```batch
+Windows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+Try the new cross-platform PowerShell https://aka.ms/pscore6
+
+PS C:\Users\yourusername> dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+Deployment Image Servicing and Management tool
+Version: 10.0.19041.844
+
+Image Version: 10.0.19042.928
+
+Enabling feature(s)
+[==========================100.0%==========================]
+The operation completed successfully.
+PS C:\Users\yourusername>
+```
+
+Now run command to enable the **Virtual Machine feature** run command below:
+```batch
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+```
+
+Exemple of command running below:
+
+```batch
+PS C:\Users\yourusername> dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+Deployment Image Servicing and Management tool
+Version: 10.0.19041.844
+
+Image Version: 10.0.19042.928
+
+Enabling feature(s)
+[==========================100.0%==========================]
+The operation completed successfully.
+PS C:\Users\yourusername>
+```
+
+After the completed this command restart your machine.
+
+Select the default version of your WSL running command below.
+
+```batch
+wsl --set-default-version 2
+```
+
+Now we need make a download of Linux Kernel Update in this [link](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi).
+
+The installation is classic, next next and finishing.
+
+Well done, the **WSL2** was installed with sucess, next steps is go to ***Microsoft Store*** and make download of you favorite flavor.
+
+
 ## References
 
-[Fira Code Font](https://github.com/tonsky/FiraCode)
+:point_right: [Fira Code Font](https://github.com/tonsky/FiraCode)
 
-[Vim](https://www.vim.org/)
+:point_right: [Vim](https://www.vim.org/)
 
-[VSCode](https://code.visualstudio.com/)
+:point_right: [VSCode](https://code.visualstudio.com/)
 
-[PowerShell 7](https://github.com/PowerShell/powershell/releases)
+:point_right: [PowerShell 7](https://github.com/PowerShell/powershell/releases)
+
+:point_right: [WSL](https://docs.microsoft.com/en-us/windows/wsl/)
+
+:point_right: [WSL config MS](https://docs.microsoft.com/en-us/windows/wsl/wsl-config)
+
+:point_right: [WSLconfig](https://www.bleepingcomputer.com/news/microsoft/windows-10-wsl2-now-allows-you-to-configure-global-options/#:~:text=To%20create%20a%20global%20configuration%20for%20all%20installed%20WSL2%20Linux,wslconfig.)
+
