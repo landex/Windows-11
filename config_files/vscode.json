@@ -1,0 +1,9 @@
+{
+    "security.workspace.trust.untrustedFiles": "open",
+    "terminal.integrated.fontWeight": 10,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 12,
+    "editor.fontWeight": "normal"
+}
