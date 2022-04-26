@@ -4,7 +4,14 @@ In this repository have my configurations to Windows 11
 
 #### Some softwares that I use in my windows set up
 
+*  **7-ZIP**: Compress and Uncompress File Tool.
+*  **Edge:** Microsft Detaul Web Brownser of Windows.
+*  **Foxit PDF Reader:** Best PDF Reader Free.
+*  **Malwarebytes:** Good and Enough Antivirus Software.
 *  **Min:** Minimalistc Web Brownser.
-*  **Edge:** Microsft Detaul Web Brownser of Windows
-*  **Windows Terminal:** Default Windows Terminal 
-*  **WSL2:** 
+*  **MS OFFICE 2021 Home and Business**: Best paid office suite.
+*  **PowerShell 7:** Is Not a Bash or Zshell but is the Best to Windows.
+*  **VSCode:** The Best Code Editor.
+*  **Windows Security:** Eeee is Better Stay in Computer.
+*  **Windows Terminal:** Default Windows Terminal.
+*  **WSL2:** Windos Subsystem Linux, to run Ubuntu 22.04 LTS.
