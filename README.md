@@ -9,9 +9,9 @@ In this repository have my configurations to Windows 11
 *  **Foxit PDF Reader:** Best PDF Reader Free.
 *  **Malwarebytes:** Good and Enough Antivirus Software.
 *  **Min:** Minimalistc Web Brownser.
-*  **MS OFFICE 2021 Home and Business**: Best paid office suite.
+*  **Office 2021 Home and Business**: Best Paid Office Suite.
 *  **PowerShell 7:** Is Not a Bash or Zshell but is the Best to Windows.
 *  **VSCode:** The Best Code Editor.
 *  **Windows Security:** Eeee is Better Stay in Computer.
 *  **Windows Terminal:** Default Windows Terminal.
-*  **WSL2:** Windos Subsystem Linux, to run Ubuntu 22.04 LTS.
+*  **WSL2:** Windows Subsystem Linux Version 2, to Run Ubuntu 22.04 LTS.
