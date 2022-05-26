@@ -9,7 +9,7 @@ In this repository have my configurations to Windows 11
 *  **Chrome:** The Google Browse.
 *  **Edge:** Microsft Detaul Web Brownser of Windows.
 *  **Foxit PDF Reader:** Best PDF Reader Free.
-*  **GIT:** Code Controle.
+*  **GIT:** Code Control.
 *  **Malwarebytes:** Good and Enough Antivirus Software.
 *  **Office 2021 Home and Business**: Best Paid Office Suite.
 *  **PowerShell 7:** Is Not a Bash or Zshell but is the Best to Windows.
