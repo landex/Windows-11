@@ -5,6 +5,7 @@ In this repository have my configurations to Windows 11
 #### Some softwares that I use in my windows set up
 
 *  **7-ZIP**: Compress and Uncompress File Tool.
+*  **Chocolatey:** The Windows Package Manager.
 *  **Chrome:** The Google Browse.
 *  **Edge:** Microsft Detaul Web Brownser of Windows.
 *  **Foxit PDF Reader:** Best PDF Reader Free.
